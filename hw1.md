@@ -40,4 +40,4 @@ struct ContentView: View {
 }
 ```
 
-<img width="40%"  src="">
+<img width="40%"  src="https://github.com/sunnyplaycode/yzu-swiftui-1103326/blob/ebf96abd418602ca18336055121139b94ad96f0c/hw1.jpg">
