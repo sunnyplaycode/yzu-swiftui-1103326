@@ -241,7 +241,10 @@ struct TripView: View {
     }
 }
 ```
-
+<img width="40%"  src="https://github.com/sunnyplaycode/yzu-swiftui-1103326/blob/fee9e63ed7e5f9ed52ba50284cbcae02f91e59e1/hw4-1.jpg">
+<img width="40%"  src="https://github.com/sunnyplaycode/yzu-swiftui-1103326/blob/fee9e63ed7e5f9ed52ba50284cbcae02f91e59e1/hw4-2.jpg">
+<img width="40%"  src="https://github.com/sunnyplaycode/yzu-swiftui-1103326/blob/fee9e63ed7e5f9ed52ba50284cbcae02f91e59e1/hw4-3.jpg">
+<img width="40%"  src="https://github.com/sunnyplaycode/yzu-swiftui-1103326/blob/fee9e63ed7e5f9ed52ba50284cbcae02f91e59e1/hw4-4.jpg">
 
 
 
